@@ -1,0 +1,14 @@
+{
+  "name": "5일 묵상 — 넘어져도, 돌아갈 곳",
+  "short_name": "5일 묵상",
+  "description": "사도신경 강해 18: 죄를 용서받는 것과 5일 묵상",
+  "start_url": "./creed18-v1.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f5",
+  "theme_color": "#cc785c",
+  "icons": [
+    { "src": "./pwa-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./pwa-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
